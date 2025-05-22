@@ -1,0 +1,6 @@
+com\mycompany\clientecrud\ClienteCRUD.class
+model\ClientDAO.class
+model\Client.class
+view\ClientForm$1.class
+model\DBConnection.class
+view\ClientForm.class
